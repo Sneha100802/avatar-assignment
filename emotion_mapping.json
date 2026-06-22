@@ -1,0 +1,58 @@
+{
+  "neutral": {
+    "voice_style": "default",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "prompt_tone": "calm and balanced",
+    "avatar_motion": "not_supported",
+    "supported": true
+  },
+  "happy": {
+    "voice_style": "upbeat",
+    "rate": "+10%",
+    "pitch": "+20Hz",
+    "prompt_tone": "warm and joyful",
+    "avatar_motion": "not_supported",
+    "supported": true
+  },
+  "sad": {
+    "voice_style": "soft",
+    "rate": "-15%",
+    "pitch": "-20Hz",
+    "prompt_tone": "gentle and melancholic",
+    "avatar_motion": "not_supported",
+    "supported": true
+  },
+  "angry": {
+    "voice_style": "firm",
+    "rate": "+5%",
+    "pitch": "-10Hz",
+    "prompt_tone": "direct and intense",
+    "avatar_motion": "not_supported",
+    "supported": true
+  },
+  "confident": {
+    "voice_style": "firm",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "prompt_tone": "assertive and clear",
+    "avatar_motion": "not_supported",
+    "supported": true
+  },
+  "teasing": {
+    "voice_style": "playful",
+    "rate": "+5%",
+    "pitch": "+15Hz",
+    "prompt_tone": "playful and light",
+    "avatar_motion": "not_supported",
+    "supported": true
+  },
+  "intense": {
+    "voice_style": "low",
+    "rate": "-10%",
+    "pitch": "-15Hz",
+    "prompt_tone": "serious and heavy",
+    "avatar_motion": "not_supported",
+    "supported": true
+  }
+}

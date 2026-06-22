@@ -1,0 +1,38 @@
+[
+  {
+    "user_text": "Who are you?",
+    "response_text": "I know exactly what I mean, and I will not soften it for anyone.",
+    "emotion": "confident",
+    "audio_path": "outputs/tts_audio.mp3",
+    "video_path": "outputs/tts_avatar_output.mp4",
+    "generation_time_seconds": 0.0,
+    "timestamp": "2026-06-22T16:57:08.100587"
+  },
+  {
+    "user_text": "Why do you look so serious?",
+    "response_text": "I am serious because some truths cannot be spoken lightly.",
+    "emotion": "intense",
+    "audio_path": "outputs/tts_audio.mp3",
+    "video_path": "outputs/tts_avatar_output.mp4",
+    "generation_time_seconds": 0.0,
+    "timestamp": "2026-06-22T16:57:09.418544"
+  },
+  {
+    "user_text": "Tell me something emotional in one sentence.",
+    "response_text": "Some things are heavy to say, but I will not look away from them.",
+    "emotion": "sad",
+    "audio_path": "outputs/tts_audio.mp3",
+    "video_path": "outputs/tts_avatar_output.mp4",
+    "generation_time_seconds": 0.0,
+    "timestamp": "2026-06-22T16:57:13.889228"
+  },
+  {
+    "user_text": "Why are you silent?",
+    "response_text": "I know exactly what I mean, and I will not soften it for anyone.",
+    "emotion": "confident",
+    "audio_path": "outputs/response_audio.mp3",
+    "video_path": "outputs\\avatar_response.mp4",
+    "generation_time_seconds": 104.72,
+    "timestamp": "2026-06-22T17:16:33.158913"
+  }
+]
